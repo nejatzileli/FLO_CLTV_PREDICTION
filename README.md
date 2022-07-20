@@ -3,6 +3,8 @@
 In this business case, FLO online shoe retailer wants to set a roadmap for marketing and sales. To make a mid-long term plan,
 the company needs to estimate the potential value that the existing customers will provide the company.
 
+The dataset of the company will not be shared in public due to the FLO policies.
+
 # Feature Explanations:
 
 Shape :(19945 rows, 12 columns)
