@@ -1,7 +1,7 @@
 # FLO_CLTV_PREDICTION
 
 In this business case, FLO online shoe retailer wants to set a roadmap for marketing and sales. To make a mid-long term plan,
-the company needs to estimate the potential value that the existing customers will provide the company.
+the company needs to ESTIMATE POTENTIAL VALUE THAT THE EXISTING CUSTOMERS WILL PROVIDE THE COMPANY.
 
 The dataset of the company will not be shared in public due to the FLO policies.
 
